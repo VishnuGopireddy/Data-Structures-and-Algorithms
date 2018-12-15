@@ -1,4 +1,4 @@
-# author => vishnugopireddy
+# author : vishnugopireddy
 # Binary Representation of Number with 14 bits
 def binary(num):
     '''
